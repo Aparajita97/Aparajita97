@@ -10,8 +10,6 @@ I'm a Data Science Professional based in Santa Clara, CA specializing in Machine
 
 **Exploring**: Real-Time Data Processing Technologies
 
-**Deep diving into the world of**: Artificial Intelligence in Healthcare
-
 
 **🤝 How to Reach Me:**
 
