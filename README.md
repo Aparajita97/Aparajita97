@@ -3,7 +3,7 @@
 
 **👨‍💻 About Me:**
 <p align="justify">
-I'm a Data Science Professional based in Santa Clara, CA specializing in Machine Learning and Business Analytics. With over 2.5 years of experience in the industry, I have a passion for data-driven decision-making and a knack for translating complex data into actionable insights. My background in computer science and business analytics allows me to bridge the technical and business aspects of projects, driving innovation and efficiency across operations. </p>
+I'm a Data Science Professional based in Santa Clara, CA specializing in Machine Learning and Business Analytics. I have a passion for data-driven decision-making and a knack for translating complex data into actionable insights. My background in computer science and business analytics allows me to bridge the technical and business aspects of projects, driving innovation and efficiency across operations. </p>
 
 
 **🌱 What I’m Currently Learning:**
